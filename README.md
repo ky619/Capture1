@@ -13,3 +13,5 @@ How to use?
 -> this is mainactivity
 ![image](https://user-images.githubusercontent.com/69890109/135047850-7d78d457-66df-43f3-b3ea-1600c0dd9548.png)
 -> capture success!
+![image](https://user-images.githubusercontent.com/69890109/135049055-8c98dfdf-a990-4047-b7c6-5014f1b13839.png)
+-> capture file is created!
